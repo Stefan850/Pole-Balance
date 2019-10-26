@@ -1,5 +1,6 @@
 # Pole-Balance
 Implementing Reinforcement-Learning in Gym-Environment
+![Example](https://github.com/Stefan850/Pole-Balance/blob/master/Example.png)
 
 
 ## Getting Started
